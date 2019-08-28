@@ -1,0 +1,60 @@
+{
+	"similarSearch": {
+		"vin": "WVZZ93939D3939",
+		"forModelyear" : 2019,
+		"excludedFamilies": ["PRO", "BDA", "DDA"],
+		"results": {
+			"count": 100,
+			"result": {
+				"categories": [{
+						"categorie": {
+							"key": "AC",
+							"text": "Klimaautomatik",
+							"matchedPR": "HKA9AK",
+							"alternativePR": ["HKA9AP", "HKAKC0", "HKAKH0", "HKA9AE"]
+						}
+					}, {
+						"categorie": {
+							"key": "1C",
+							"text": "2-Zonen Klimaanlage",
+							"matchedPR": "HKA9AK",
+							"alternativePR": []
+						}
+					}, {
+						"categorie": {
+							"key": "Ae",
+							"text": "Antriebsschlupfregelung",
+							"matchedPR": "BRS1AS",
+							"alternativePR": ["BRS1AP", "BRS1AZ", "BRS1AK", "BRS1AT", "BRS1AI", "BRS1AK", "BRS1AW", "BRS1AN"]
+						}
+					},
+					{
+						"categorie": {
+							"key": "AX",
+							"text": "Differentialsperre",
+							"matchedPR": "BRS1AS",
+							"alternativePR": ["DIF1Y4", "DIF1Y2", "DIF1Y2", "DIF1Y3", "BRS1AZ", "BRS1AP"]
+						}
+					},
+					{
+						"categorie": {
+							"key": "Ao",
+							"text": "ESP (Elektronisches Stabilitätsprogramm)",
+							"matchedPR": "BRS1AS",
+							"alternativePR": ["BRS1AT", "BRS1AK", "BRS1AE", "BRS1AZ", "BRS1AZ", "BRS1AP"]
+						}
+					},
+					{
+						"categorie": {
+							"key": "AA",
+							"text": "Antiblockiersystem",
+							"matchedPR": "BRS1AS",
+							"alternativePR": ["BRS1AN", "BRS1AT", "BRS1AW", "BRS1AC", "BRS1AK", "BRS1AI"]
+						}
+					}
+				]
+
+			}
+		}
+	}
+}
